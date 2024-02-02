@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore compiled files or local configuration specific to your development environment
+.venv/
+*.pyc
+binary_tree_print.c
+*-main.c
